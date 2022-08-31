@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: paginainicial.github.io
+Token: 920739047df48cdf5d85152e1b8a8a3f3c9fe401c268669bd519527a8e3fb4f6
